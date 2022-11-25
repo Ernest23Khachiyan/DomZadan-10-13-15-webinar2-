@@ -58,8 +58,9 @@ else
 {
     Console.WriteLine("Выходной день недели");
 }
-{
+
 if (day > 7)
+{
     Console.WriteLine("На какой нибудь другой планете");
 }
 
